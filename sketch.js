@@ -13,7 +13,7 @@ function setup(){
   
   back = createSprite(100,200);
   back.addImage("back",backImg)
-  back.scale = 3
+ // back.scale = 3
  
 
   edges = createEdgeSprites();
